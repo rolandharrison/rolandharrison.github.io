@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{b0KN:function(n,e,u){"use strict";u.r(e),u.d(e,"pageQuery",(function(){return r}));var a=u("PJ8K");e.default=a.default;var r="4203263059"}}]);
